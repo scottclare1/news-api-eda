@@ -2,3 +2,6 @@ pandas
 numpy
 matplotlib
 newscatcherapi
+sentence_transformers
+scipy
+bs4
